@@ -13,7 +13,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/momyuke/team-b-mini-project.git
+git remote add origin https://github.com/RidhoKartoni6561/Rumah_Kita.git
 git branch -M main
 git push -uf origin main
 ```
